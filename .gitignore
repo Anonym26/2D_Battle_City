@@ -56,4 +56,4 @@ __pycache__/
 .tox/
 
 # Пользовательские файлы
-.zip
+models/PPO/Test_Bot/*.zip
