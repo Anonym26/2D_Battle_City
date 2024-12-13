@@ -56,5 +56,5 @@ __pycache__/
 .tox/
 
 # Пользовательские файлы
-.models/
+PPO/
 .zip
