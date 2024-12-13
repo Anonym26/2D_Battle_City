@@ -1,0 +1,1 @@
+### Ссылка на скачивание обученной модели АИ АГЕНТА: https://disk.yandex.ru/d/xJBukYWSmMqU5g  
